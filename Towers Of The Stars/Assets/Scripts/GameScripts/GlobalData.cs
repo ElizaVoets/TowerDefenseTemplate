@@ -19,13 +19,4 @@ public class GlobalData
     public static GameObject SelectedTower;
     public static List<GameObject> TowerList = new List<GameObject>();
 
-    //standard tower stats
-
-    public static float BulletSpeed;
-    public static float BulletDamage;
-    public static float AttackSpeed;
-
-    //enemy stats
-    public static float EnemyHealth;
-
 }
