@@ -3,6 +3,11 @@ Dit is een template wat door jullie te gebruiken is voor het juist inleveren van
 
 Begin met een korte omschrijving van je towerdefense game en hoe deze werkt. Plaats ook een paar screenshots.
 
+
+**CloudyTowers**
+
+In cloudy towers bescherm je de wereld van slecht weer. Dit doe je door de Sun Spire te beschermen. Dit doe je door torens te plaatsen, en je torens te upgraden. Iedere storm wolk die je neutraliseerd laat een Cloud Fragment vallen. En als je daar vijf van hebt, krijg je een CloudCoin
+
 <img width="794" alt="image" src="https://github.com/ElizaVoets/TowerDefenseTemplate/blob/Release/readmeVisuals/GameScreenshot1.png"><br>
 
 

@@ -6,7 +6,7 @@ using UnityEngine;
 public class EnemySpawner : MonoBehaviour
 {
     //make an array for the enemies
-    public GameObject enemyA, enemyB, enemyC;
+    public GameObject enemyA;
     public GameObject[] enemies;
     public float delay;
     public float timeBetweenDelay = 3;
@@ -39,15 +39,6 @@ public class EnemySpawner : MonoBehaviour
             
             StartCoroutine(SpawnDelay(enemyA)); // starts spawn 
             
-        }
-    }
-    private IEnumerator SpawnWholeArray(GameObject[] enemies)
-    {
-        for (int i = 0; i < enemies.Length; i++)
-        {
-         // delay is space/time between enemy spawns
-            yield return new WaitForSeconds(delay); // wait for [delay] seconds
-            Instantiate(enemies[i], transform.position, Quaternion.identity); // spawn enemy
         }
     }
     private IEnumerator SpawnDelay(GameObject enemy)
