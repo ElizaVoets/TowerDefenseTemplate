@@ -207,7 +207,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 969393726}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 969393728}
+        m_TargetAssemblyTypeName: StartOrExitGame, Assembly-CSharp
+        m_MethodName: OnClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &969393726
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -258,6 +270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9710344569ef81a46a2b6bad5e221fba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  buttonName: exit
 --- !u!1 &1059414868
 GameObject:
   m_ObjectHideFlags: 0
@@ -1079,7 +1092,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2087029403}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2087029405}
+        m_TargetAssemblyTypeName: StartOrExitGame, Assembly-CSharp
+        m_MethodName: OnClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2087029403
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1130,3 +1155,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9710344569ef81a46a2b6bad5e221fba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  buttonName: play

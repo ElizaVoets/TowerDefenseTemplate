@@ -5,21 +5,19 @@ using UnityEngine.SceneManagement;
 
 public class StartOrExitGame : MonoBehaviour
 {
-    string buttonName;
-    void Update()
-    {
-        buttonName = gameObject.name;
+    public string buttonName;
 
-        switch (buttonName)
+    public void OnClick()
+    {
+        //buttonName = gameObject.name;
+
+        switch (buttonName.ToLower())
         {
-            case "StartButton":
+            case "play":
                 SceneManager.LoadScene(1);
                 return;
-            case "ExitGameButton":
+            case "exit":
                 Application.Quit();
-                return;
-            case "replay":
-                SceneManager.LoadScene(1);
                 return;
         }
     }
