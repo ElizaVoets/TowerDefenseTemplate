@@ -8,7 +8,7 @@ public class EnemyDeath : MonoBehaviour
     public float Health;
     public bool HasDied;
     public GameObject Neutralized;
-    TowerStats towerStats;
+
 
     void Start()
     {
