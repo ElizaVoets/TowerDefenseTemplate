@@ -5,7 +5,8 @@ Begin met een korte omschrijving van je towerdefense game en hoe deze werkt. Pla
 
 <img width="794" alt="image" src="https://github.com/ElizaVoets/TowerDefenseTemplate/blob/Release/readmeVisuals/GameScreenshot1.png"><br>
 
-![Image](/TowerDefenseTemplate/blob/Release/readmeVisuals/GameScreenshot2.png)
+
+<img width="794" alt="image" src="https://github.com/ElizaVoets/TowerDefenseTemplate/blob/Release/readmeVisuals/GameScreenshot2.png">
 
 ## Product 1: "DRY SRP Scripts op GitHub"
 
@@ -63,7 +64,7 @@ Je brengt je volledige codebase in kaart met behulp van een class diagram. Binne
 ## Product 8: Prototype test video
 Je hebt een werkend prototype gemaakt om een idee te testen. Omschrijf if je readme wat het idee van de mechanics is geweest wat je wilde testen en laat een korte video van de gameplay test zien. 
 
-[![example test video](https://ucarecdn.com/dbdc3ad0-f375-40ad-8987-9e6451b28b50/)](https://www.youtube.com/watch?v=CzzRML1swF0)
+Helaas heeft mijn google account restricties. (Family Link) Ik mag dus geen videos uploaden naar youtube.
 
 ## Product 9: SCRUM planning inschatting 
 
