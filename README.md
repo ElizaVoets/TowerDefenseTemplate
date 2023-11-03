@@ -10,7 +10,10 @@ Begin met een korte omschrijving van je towerdefense game en hoe deze werkt. Pla
 
 ## Product 1: "DRY SRP Scripts op GitHub"
 
-Hier is de link naar het [DRY](/Towers%20Of%20The%20Stars/Assets/Scripts/GameScripts/Shop%20scripts/OpenAndClose.cs) script
+Hier is de link naar het [DRY](/Towers%20Of%20The%20Stars/Assets/Scripts/GameScripts/Shop%20scripts/OpenAndClose.cs) script. Ik vind deze script dry omdat ik dit dan niet in andere scripts hoef te herhalen
+
+
+Hier is de link naar het [SRP] (/Towers%20Of%20The%20Stars/Assets/Scripts/GameScripts/Tower%20scripts/RangeScript.cs) script. Ik vind deze script een SRP script omdat het alleen kijkt of er een enemy in range is.
 
 ## Product 2: "Projectmappen op GitHub"
 
