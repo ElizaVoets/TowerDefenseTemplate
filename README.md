@@ -15,7 +15,7 @@ In cloudy towers bescherm je de wereld van slecht weer. Dit doe je door de Sun S
 
 ## Product 1: "DRY SRP Scripts op GitHub"
 
-Hier is de link naar het [DRY](/Towers%20Of%20The%20Stars/Assets/Scripts/GameScripts/Shop%20scripts/OpenAndClose.cs) script. Ik vind deze script dry omdat ik dit dan niet in andere scripts hoef te herhalen
+Hier is de link naar het [DRY](/Towers%20Of%20The%20Stars/Assets/Scripts/GameScripts/WaypointScript.cs) script. Ik vind deze script dry omdat ik door de for loop niet iedere waypoint met variabele hoef op te halen
 
 
 Hier is de link naar het [SRP](/Towers%20Of%20The%20Stars/Assets/Scripts/GameScripts/Tower%20scripts/RangeScript.cs) script. Ik vind deze script een SRP script omdat het alleen kijkt of er een enemy in range is.
@@ -72,7 +72,8 @@ Je brengt je volledige codebase in kaart met behulp van een class diagram. Binne
 ## Product 8: Prototype test video
 Je hebt een werkend prototype gemaakt om een idee te testen. Omschrijf if je readme wat het idee van de mechanics is geweest wat je wilde testen en laat een korte video van de gameplay test zien. 
 
-Helaas heeft mijn google account restricties. (Family Link) Ik mag dus geen videos uploaden naar youtube.
+
+[Wessel heeft geholpen met deze video ^^](https://www.youtube.com/watch?v=WsbshhkOBFs)
 
 ## Product 9: SCRUM planning inschatting 
 
